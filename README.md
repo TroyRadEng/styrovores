@@ -1,6 +1,8 @@
 # styrovores
 Question: Might carnivorous plants have the capacity to help us dispose of industrial wastes?
 
+http://www.necps.org/
+
 ## venus fly traps
 * [eat bugs to get phosphorous and nitrogen](https://www.scientificamerican.com/article/how-does-the-venus-flytra/)
 * [digestive juices may contain peroxides](http://eol.org/pages/584643/details)
